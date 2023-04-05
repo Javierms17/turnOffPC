@@ -1,0 +1,17 @@
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\bin\Debug\net6.0-windows\turnOffPC.exe
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\bin\Debug\net6.0-windows\turnOffPC.deps.json
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\bin\Debug\net6.0-windows\turnOffPC.runtimeconfig.json
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\bin\Debug\net6.0-windows\turnOffPC.dll
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\bin\Debug\net6.0-windows\turnOffPC.pdb
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\obj\Debug\net6.0-windows\turnOffPC.csproj.AssemblyReference.cache
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\obj\Debug\net6.0-windows\turnOffPC.Form1.resources
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\obj\Debug\net6.0-windows\turnOffPC.csproj.GenerateResource.cache
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\obj\Debug\net6.0-windows\turnOffPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\obj\Debug\net6.0-windows\turnOffPC.AssemblyInfoInputs.cache
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\obj\Debug\net6.0-windows\turnOffPC.AssemblyInfo.cs
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\obj\Debug\net6.0-windows\turnOffPC.csproj.CoreCompileInputs.cache
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\obj\Debug\net6.0-windows\turnOffPC.dll
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\obj\Debug\net6.0-windows\refint\turnOffPC.dll
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\obj\Debug\net6.0-windows\turnOffPC.pdb
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\obj\Debug\net6.0-windows\turnOffPC.genruntimeconfig.cache
+C:\Users\Javier\source\repos\turnOffPC\turnOffPC\obj\Debug\net6.0-windows\ref\turnOffPC.dll
